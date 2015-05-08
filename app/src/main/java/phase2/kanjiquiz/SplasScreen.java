@@ -11,7 +11,7 @@ import com.jirbo.adcolony.AdColonyNativeAdMutedListener;
 import com.jirbo.adcolony.AdColonyNativeAdView;
 import com.lakhzubplb.hthefdfkng226437.AdConfig;
 import com.lakhzubplb.hthefdfkng226437.AdConfig.AdType;
-import com.phase2.kanjiquiz1.R;
+import com.simple.dumbatheist.R;
 import com.lakhzubplb.hthefdfkng226437.AdListener;
 import com.lakhzubplb.hthefdfkng226437.AdView;
 

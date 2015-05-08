@@ -3,7 +3,7 @@ package phase2.kanjiquiz;
 import com.appodeal.ads.Appodeal;
 import com.lakhzubplb.hthefdfkng226437.AdConfig;
 import com.lakhzubplb.hthefdfkng226437.AdConfig.AdType;
-import com.phase2.kanjiquiz1.R;
+import com.simple.dumbatheist.R;
 import com.lakhzubplb.hthefdfkng226437.AdListener;
 import com.lakhzubplb.hthefdfkng226437.AdView;
 
