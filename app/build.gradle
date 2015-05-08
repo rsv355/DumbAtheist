@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "com.phase2.kanjiquiz1"
+        applicationId "com.simple.dumbatheist"
         minSdkVersion 9
         targetSdkVersion 19
     }

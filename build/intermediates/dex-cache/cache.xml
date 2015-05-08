@@ -2,221 +2,221 @@
 <items version="2" >
 
     <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-130b3d9fe45290fcb16cf972e0d90ed76d44263f.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\libs\applovin-sdk-5.4.3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="587e2c8a6556d73de64e82f42697ffffca0f2c2d">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\applovin-sdk-5.4.3-80263642bd4d9b5c59324ad969a83ca479ded2da.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-3dffa39c90c5b09017cfc423fd02b78d14284b41.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\libs\adcolony.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f1501103c9fe71e9ce84e23a3460597282851aa1">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\adcolony-ff740bf7ec00818fd2e580d49123513f0266ea8f.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\libs\chartboost-5.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3a3a8803bd49ff18a15d67c122b4d7270807ab16">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\chartboost-5.2.0-a31f7578012897d9f3b3a5afd1a2b67ec80776e5.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-79e5414b5163961f872a4816bc5176042c8096db.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-9faca5fd5c831ee4d48aab018ad46f035ad65128.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-cb6daccd053c520cd2e0c4c771457db783f6c28c.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-7a94f6f66d1bb061512c0a8e64e96ea0ea4a1d3d.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-3148662b500988e46fdbedde653930feda54915b.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-5301fc83d261579b99269be4179ffe1da1a916e3.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-34453c1dcf8be164e7a9e8033640e74289d85210.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-fec6c9dadd938dbc33e5aeeaae8c265539fc3f37.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-4693f9c23cc4f47c0c62f2aca106423efa8b5d14.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-3764ec99eb795dcba2a14b29a1ae660d810f72c7.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\libs\com-lakhzubplb-hthefdfkng226437.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ea6b738adbf952d8d20ffd3c56b3aada3538f64a">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\com-lakhzubplb-hthefdfkng226437-96db6604891f8e09a2a53994c30c131165d813b8.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-283e624e01f986c96be165def44e7dcd3da260ac.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="565a01f90f1529f73362707c4c185d0623a68782">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-5969e9c78c9bf04c87e6e5bf2a2f4f20da7b6e93.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-312e4ef79ac156586f39593b46f19cc4576b1dd0.jar" />
-    </item>
-    <item
-        jar="D:\Dumb Atheist\app\libs\unity-ads-1.3.12.jar"
+        jar="D:\AndroidProjects\DumbAtheist1\app\libs\unity-ads-1.3.12.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="bc608ffaca70ee5b54fcce37ad3a65f9d9b0d4eb">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\unity-ads-1.3.12-3dfe04902e0114434339e48f71d420d3e2a4de5e.jar" />
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\unity-ads-1.3.12-009781e671341b9c8c27986e99a5e7bcf7bbb0b2.jar" />
     </item>
     <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jar="D:\AndroidProjects\DumbAtheist1\app\libs\com-lakhzubplb-hthefdfkng226437.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-9972e9e0b803f0130895a7a222611f9fcb60e46c.jar" />
+        sha1="ea6b738adbf952d8d20ffd3c56b3aada3538f64a">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\com-lakhzubplb-hthefdfkng226437-c785f57eebb4b42165af527293649629ab733d31.jar" />
     </item>
     <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-7b98859f85e0de1689679f0efd403e8f653a27bc.jar" />
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-48992ef6e6a23f3e5dc95633686a993768add1bf.jar" />
     </item>
     <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-cf0a03f37b4c3e9b5c220f9af100f3f7eb0cdc86.jar" />
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-a8dfbad1e5a1dbd7b73af9100d729f11230bc655.jar" />
     </item>
     <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-9d1e38c5011803c9f5806d194641539ad175f1c3.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-8d683d589b4ec355881d318f8cc3240f7c0de3a1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-709d0e7681b9bb5034c89f69f07eefee9b5eb9b0.jar" />
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-a282fad9087eb112f30600c269e3cd3e93aa1a35.jar" />
     </item>
     <item
-        jar="D:\Dumb Atheist\app\libs\appodeal-1.11.2.jar"
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="9f36cf5ebd7bac98081572cd5cdc456f5ac90247">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\appodeal-1.11.2-7b9b9c33e1cf0992a6ce2b65c2a344ee1c8bcdc4.jar" />
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-8037204ff2a0830fa4f48bc5aa4a89fb11f1d666.jar" />
     </item>
     <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-4ca0da770355235e88686b0a46afeabb9e268cc7.jar" />
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-85ec4338289896bf4d9dc94cbc509ca7d9e6c121.jar" />
     </item>
     <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-7c0d3b5afd7a56b1f1f9632dd5fd6efa2b96706e.jar" />
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-5c7bd272f09d981112760c100cda5d94490d8890.jar" />
     </item>
     <item
-        jar="C:\Users\Android\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-9cfeea1a75ff5cc7df8d5150782f478518e3abe1.jar" />
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-afbbb08a8724ac5b783450e141d4610a647c963e.jar" />
     </item>
     <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jar="D:\AndroidProjects\DumbAtheist1\app\libs\adcolony.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-c69a2c4ddfb3925892dcf67e5da6481e43c1049e.jar" />
+        sha1="f1501103c9fe71e9ce84e23a3460597282851aa1">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\adcolony-2e301030d5bc4a33f747d48509eae3a0529bba84.jar" />
     </item>
     <item
-        jar="D:\Dumb Atheist\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jar="D:\AndroidProjects\DumbAtheist1\app\libs\chartboost-5.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3a3a8803bd49ff18a15d67c122b4d7270807ab16">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\chartboost-5.2.0-cadb1a57d068f6169578665dbe07b4e124366aa2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-47898df3cfdf2eba8632cd3db6982cf707f10867.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="59652857a825fff0de62166fca1bc9553cc01abb">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\classes-cacd6ce483383322404b2299bfaea5e8ae2ca065.jar" />
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-2f12ad03b0fd45032e54044d7f0fede48b30644e.jar" />
     </item>
     <item
-        jar="D:\Dumb Atheist\app\libs\supersonic-sdk-5.14.jar"
+        jar="D:\AndroidProjects\DumbAtheist1\app\libs\appodeal-1.11.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9f36cf5ebd7bac98081572cd5cdc456f5ac90247">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\appodeal-1.11.2-b894c39d0802c6ac2ed90867100dccb513b5351c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-81dceb708a4dc5055ca7df0e5bfa641be097e9cd.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-6ab46a953b63158035b134723052d52ac46f9fbf.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-7189e175667834f510d530eac09652ee3bb8a14b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-b7320bb1110fb9ba798c37a3b9a2a800238a6cc0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-8838cce82171a8ed708f7718d51991f041b4714a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-eb8578c9e2742b28a63bc53b92742dedbaa2d10c.jar" />
+    </item>
+    <item
+        jar="D:\Android-SDK\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\support-annotations-22.1.1-e05b7ff8dc1611f9f3c727b23be0af25c3ccdadf.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-333c62ba5371a78fae9edee3464b60af005eb18d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-c5f1698614191937de47348fb067cc0f1285c507.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\libs\supersonic-sdk-5.14.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="b2d187f83f6853439aad5323f066f5396062e56f">
-        <dex dex="D:\Dumb Atheist\app\build\intermediates\pre-dexed\debug\supersonic-sdk-5.14-932d04fcb92dcaf20c874a458e8835072c0ac70b.jar" />
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\supersonic-sdk-5.14-0301cf00ffe5db7ca736024f27039c313f0c741d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-1bd0e52b707ebe967ee7f95d997e8512b1dfbe3d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-4429f4953341cb269eda6f06087883e61fcabbb4.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\libs\applovin-sdk-5.4.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="587e2c8a6556d73de64e82f42697ffffca0f2c2d">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\applovin-sdk-5.4.3-b5a7823935c8eeb789d7a8a98024995e757cc759.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\internal_impl-22.1.1-1c48ae7845e7445858cb742f3fb22364730f155e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="D:\AndroidProjects\DumbAtheist1\app\build\intermediates\pre-dexed\release\classes-805efecb9a25e114ec5407938f8815cb7fd41408.jar" />
     </item>
 
 </items>
