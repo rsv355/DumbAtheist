@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blu" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/blu"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp" >
+
+        <com.lakhzubplb.hthefdfkng226437.AdView
+            android:id="@+id/myAdView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+        </com.lakhzubplb.hthefdfkng226437.AdView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/white_border"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="8dp" >
+
+            <TextView
+                android:id="@+id/textView1"
+                style="@style/big_white_font"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Choose on what you believe in. Are you a Believer of God have and faith in him or someone who needs proof and evidence to prove that God exist. Choose a side and answer some questions that will determine whether your smarter or dumber than an atheist." />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llAForOptionScreen"
+            android:layout_width="200dp"
+            android:layout_height="52dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/btn_option_selector"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView2"
+                style="@style/big_white_font"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Believer" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llBForOptionScreen"
+            android:layout_width="200dp"
+            android:layout_height="52dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/btn_option_selector"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView3"
+                style="@style/big_white_font"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Atheist" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

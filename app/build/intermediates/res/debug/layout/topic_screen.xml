@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blu"
+    android:orientation="vertical"
+    android:paddingBottom="8dp"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp" >
+
+    <!-- <LinearLayout -->
+    <!-- android:layout_width="match_parent" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:gravity="center" -->
+    <!-- android:orientation="vertical" > -->
+
+
+    <!-- <com.lakhzubplb.hthefdfkng226437.AdView -->
+    <!-- android:id="@+id/myAdView" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" > -->
+    <!-- </com.lakhzubplb.hthefdfkng226437.AdView> -->
+    <!-- </LinearLayout> -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/white_border"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="8dp" >
+
+            <TextView
+                android:id="@+id/textView1"
+                style="@style/big_white_font"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Choose a Topic" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/txtReligion"
+            android:layout_width="200dp"
+            android:layout_height="52dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/btn_option_selector"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/big_white_font"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="RELIGION" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/txtTrivia"
+            android:layout_width="200dp"
+            android:layout_height="52dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/btn_option_selector"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/big_white_font"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="TRIVIA" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/txtScience"
+            android:layout_width="200dp"
+            android:layout_height="52dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/btn_option_selector"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/big_white_font"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SCIENCE" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <com.lakhzubplb.hthefdfkng226437.AdView
+        android:id="@+id/myAdView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" >
+    </com.lakhzubplb.hthefdfkng226437.AdView>
+
+</RelativeLayout><!-- From: file:/D:/Dumb%20Atheist/app/src/main/res/layout/topic_screen.xml -->
